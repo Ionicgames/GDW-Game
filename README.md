@@ -1,2 +1,2 @@
 # GDW-Game
-Game for GDW
+This is where the gdw game will go
